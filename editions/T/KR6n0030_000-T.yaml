@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6n0030/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 成唯識論了義燈
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T43/T43n1832.xml
+    old_id: T43n1832
+hash: sha256:be29e31f79c08810dd4dc5b98a78aa874d635320350733ca90be818d4d6a7b6d

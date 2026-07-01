@@ -1,0 +1,393 @@
+canonical_identifier: bkk:krp/KR6n0030/bkk/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: page-break, offset: 0, content: '', id: KR6n0030_T_000-0659a, 'n': 0659a, ed: T, source_xml_id: T43.1832.0659a}
+  - {type: line-break, offset: 0, content: '', id: KR6n0030_T_000-0659a01, ed: T, 'n': 0659a01}
+  - {type: line-break, offset: 0, content: '', id: KR6n0030_T_000-0659a02, ed: T, 'n': 0659a02}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6n0030_T_000-bkkpn1}
+  - {type: punctuation, offset: 0, content: o, id: KR6n0030_T_000-bkkpn2}
+  - {type: punctuation, offset: 0, content: ., id: KR6n0030_T_000-bkkpn3}
+  - {type: punctuation, offset: 0, content: '1', id: KR6n0030_T_000-bkkpn4}
+  - {type: punctuation, offset: 0, content: '8', id: KR6n0030_T_000-bkkpn5}
+  - {type: punctuation, offset: 0, content: '3', id: KR6n0030_T_000-bkkpn6}
+  - {type: punctuation, offset: 0, content: '2', id: KR6n0030_T_000-bkkpn7}
+  - {type: punctuation, offset: 0, content: '[', id: KR6n0030_T_000-bkkpn8}
+  - {type: punctuation, offset: 0, content: c, id: KR6n0030_T_000-bkkpn9}
+  - {type: punctuation, offset: 0, content: f, id: KR6n0030_T_000-bkkpn10}
+  - {type: punctuation, offset: 0, content: ., id: KR6n0030_T_000-bkkpn11}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6n0030_T_000-bkkpn12}
+  - {type: punctuation, offset: 0, content: o, id: KR6n0030_T_000-bkkpn13}
+  - {type: punctuation, offset: 0, content: s, id: KR6n0030_T_000-bkkpn14}
+  - {type: punctuation, offset: 0, content: ., id: KR6n0030_T_000-bkkpn15}
+  - {type: punctuation, offset: 0, content: '1', id: KR6n0030_T_000-bkkpn16}
+  - {type: punctuation, offset: 0, content: '5', id: KR6n0030_T_000-bkkpn17}
+  - {type: punctuation, offset: 0, content: '8', id: KR6n0030_T_000-bkkpn18}
+  - {type: punctuation, offset: 0, content: '5', id: KR6n0030_T_000-bkkpn19}
+  - {type: punctuation, offset: 0, content: ',', id: KR6n0030_T_000-bkkpn20}
+  - {type: punctuation, offset: 0, content: '1', id: KR6n0030_T_000-bkkpn21}
+  - {type: punctuation, offset: 0, content: '8', id: KR6n0030_T_000-bkkpn22}
+  - {type: punctuation, offset: 0, content: '3', id: KR6n0030_T_000-bkkpn23}
+  - {type: punctuation, offset: 0, content: '0', id: KR6n0030_T_000-bkkpn24}
+  - {type: punctuation, offset: 0, content: ']', id: KR6n0030_T_000-bkkpn25}
+  - {type: line-break, offset: 0, content: '', id: KR6n0030_T_000-0659a03, ed: T, 'n': 0659a03}
+  - {type: variant, offset: 0, length: 5, content: 淄洲大雲寺, 甲: ''}
+  - {type: variant, offset: 0, length: 10, content: 淄洲大雲寺苾芻惠沼撰, 甲: 沙門沼撰}
+  - {type: variant, offset: 0, length: 10, content: 淄洲大雲寺苾芻惠沼撰, 甲: ''}
+  - {type: variant, offset: 0, length: 10, content: 淄洲大雲寺苾芻惠沼撰, 丙: 苾芻沼撰}
+  - {type: variant, offset: 7, length: 1, content: 惠, 甲: ''}
+  - {type: variant, offset: 15, length: 1, content: 信, 原: 性}
+  - {type: variant, offset: 43, length: 1, content: 計, 大: 許}
+  - {type: variant, offset: 51, length: 1, content: 失, 大: 又}
+  - {type: variant, offset: 93, length: 1, content: 又, 大: 今}
+  - {type: variant, offset: 137, length: 1, content: 波, 甲: 彼}
+  - {type: variant, offset: 308, length: 1, content: 答, 大: 問}
+  - {type: variant, offset: 330, length: 1, content: 之, 大: 遠}
+  - {type: variant, offset: 429, length: 1, content: 許, 大: 計}
+  - {type: variant, offset: 486, length: 1, content: 或, 甲: 惑}
+  - {type: variant, offset: 504, length: 1, content: 體, 甲: 證}
+  - {type: variant, offset: 564, length: 1, content: 了, 丙: 了義}
+  - {type: variant, offset: 628, length: 4, content: 流布法眼, 乙: 法眼流布}
+  - {type: variant, offset: 632, length: 1, content: 後, 大: 例}
+  - {type: variant, offset: 728, length: 1, content: 從, 甲: 徒, 乙: 徒}
+  - {type: variant, offset: 733, length: 1, content: 隨, 甲: ''}
+  - {type: variant, offset: 743, length: 1, content: 以, 大: 於}
+  - {type: variant, offset: 964, length: 1, content: 本, 甲: 在}
+  - {type: variant, offset: 968, length: 1, content: 弘, 乙: 於}
+  - {type: variant, offset: 1013, length: 1, content: 或, 大: 惑}
+  - {type: variant, offset: 1048, length: 1, content: 令, 甲: 今}
+  - {type: variant, offset: 1058, length: 1, content: 不, 大: 可}
+  - {type: variant, offset: 1068, length: 1, content: 此, 大: 比}
+  - {type: variant, offset: 1124, length: 1, content: 教, 甲: 數}
+  - {type: variant, offset: 1188, length: 1, content: 相, 大: 想}
+  - {type: variant, offset: 1190, length: 1, content: 亦, 乙: ''}
+  - {type: variant, offset: 1286, length: 2, content: 善分, 大: 分善}
+  - {type: variant, offset: 1342, length: 3, content: 相應斷, 大: ''}
+  - {type: variant, offset: 1349, length: 1, content: 踰, 乙: 阿踰}
+  - {type: variant, offset: 1370, length: 1, content: 七, 乙: 七地}
+  - {type: variant, offset: 1465, length: 1, content: 邪, 甲: 耶}
+  - {type: variant, offset: 1484, length: 1, content: 通, 大: 別}
+  - {type: variant, offset: 1517, length: 1, content: 知, 甲: 智, 乙: 智}
+  - {type: variant, offset: 1537, length: 1, content: 為, 大: 有}
+  - {type: variant, offset: 1539, length: 1, content: 四, 大: 五}
+  - {type: variant, offset: 1574, length: 1, content: 切, 甲: 向, 原: 向}
+  - {type: variant, offset: 1691, length: 1, content: 真, 乙: 直}
+  - {type: variant, offset: 1762, length: 1, content: 密, 甲: 蜜, 乙: 蜜}
+  - {type: variant, offset: 1782, length: 1, content: 益, 甲: 利益, 乙: 利益}
+  - {type: variant, offset: 1941, length: 1, content: 我, 大: 我喻}
+  - {type: variant, offset: 1945, length: 1, content: 或, 乙: 惑}
+  - {type: variant, offset: 1990, length: 1, content: 惑, 大: 或}
+  - {type: variant, offset: 2009, length: 1, content: 密, 甲: 蜜, 乙: 蜜}
+  - {type: variant, offset: 2185, length: 1, content: 憍, 大: 矯}
+  - {type: variant, offset: 2188, length: 1, content: 及, 大: 乃}
+  - {type: variant, offset: 2194, length: 1, content: 密, 甲: 蜜, 乙: 蜜}
+  - {type: variant, offset: 2205, length: 1, content: 實, 甲: 寶, 乙: 寶}
+  - {type: variant, offset: 2276, length: 1, content: 心, 大: 識}
+  - {type: variant, offset: 2280, length: 1, content: 識, 大: 心}
+  - {type: variant, offset: 2290, length: 1, content: 令, 甲: 今}
+  - {type: variant, offset: 2298, length: 1, content: 摩, 大: 磨}
+  - {type: variant, offset: 2356, length: 1, content: 因, 大: 同}
+  - {type: variant, offset: 2363, length: 1, content: 謂, 大: 語}
+  - {type: variant, offset: 2418, length: 1, content: 二, 大: ''}
+  - {type: variant, offset: 2461, length: 1, content: 或, 大: 惑}
+  - {type: variant, offset: 2529, length: 1, content: 過, 乙: 過不}
+  - {type: variant, offset: 2546, length: 1, content: 二, 原: 三}
+  - {type: variant, offset: 2611, length: 1, content: 四, 大: 五}
+  - {type: variant, offset: 2649, length: 1, content: 五, 大: 一}
+  - {type: variant, offset: 2671, length: 1, content: 住, 丙: 位}
+  - {type: variant, offset: 2683, length: 1, content: 密, 大: 蜜}
+  - {type: variant, offset: 2697, length: 1, content: 磨, 乙: 摩}
+  - {type: variant, offset: 2703, length: 1, content: 唯, 乙: ''}
+  - {type: variant, offset: 2729, length: 1, content: 業, 大: ''}
+  - {type: variant, offset: 2865, length: 1, content: 示, 乙: 爾}
+  - {type: variant, offset: 2872, length: 1, content: 惑, 大: 或}
+  - {type: variant, offset: 2907, length: 1, content: 便, 丙: 便者}
+  - {type: variant, offset: 2999, length: 1, content: 此, 甲: 六}
+  - {type: variant, offset: 3073, length: 1, content: 諸, 丙: 諸十}
+  - {type: variant, offset: 3089, length: 1, content: 二, 乙: 說二}
+  - {type: variant, offset: 3091, length: 1, content: 前, 大: 後}
+  - {type: variant, offset: 3195, length: 1, content: 等, 甲: 第}
+  - {type: variant, offset: 3251, length: 1, content: 五, 大: 立}
+  - {type: variant, offset: 3253, length: 1, content: 被, 甲: 彼}
+  - {type: variant, offset: 3281, length: 1, content: 被, 甲: 彼}
+  - {type: variant, offset: 3294, length: 1, content: 由, 甲: 為, 乙: 為}
+  - {type: variant, offset: 3347, length: 1, content: 計, 大: 許}
+  - {type: variant, offset: 3411, length: 1, content: 城, 大: 域}
+  - {type: variant, offset: 3436, length: 1, content: 珠, 大: 殊}
+  - {type: variant, offset: 3503, length: 1, content: 漸, 甲: 慚}
+  - {type: variant, offset: 3602, length: 1, content: 遂, 大: 逐}
+  - {type: variant, offset: 3623, length: 1, content: 三, 乙: 九}
+  - {type: variant, offset: 3718, length: 1, content: 疑, 大: 礙}
+  - {type: variant, offset: 3872, length: 1, content: 憍, 大: 矯}
+  - {type: variant, offset: 3918, length: 1, content: 正, 乙: 正法}
+  - {type: variant, offset: 3965, length: 1, content: 遺, 甲: 遣, 乙: 遣}
+  - {type: variant, offset: 3965, length: 2, content: 婆娑, 大: ''}
+  - {type: variant, offset: 3988, length: 1, content: 令, 大: 今}
+  - {type: variant, offset: 4009, length: 1, content: 聞, 大: 間}
+  - {type: variant, offset: 4076, length: 1, content: 現, 乙: 能現}
+  - {type: variant, offset: 4078, length: 1, content: 此, 大: 後}
+  - {type: variant, offset: 4097, length: 1, content: 二, 甲: 別, 乙: 別}
+  - {type: variant, offset: 4140, length: 1, content: 云, 乙: 立}
+  - {type: variant, offset: 4184, length: 1, content: 法, 甲: 我法, 乙: 我法}
+  - {type: variant, offset: 4220, length: 1, content: 相, 甲: 想}
+  - {type: variant, offset: 4232, length: 1, content: 恐, 乙: 即}
+  - {type: variant, offset: 4260, length: 1, content: 位, 大: 倍}
+  - {type: variant, offset: 4300, length: 1, content: 說, 甲: 執, 乙: 執}
+  - {type: variant, offset: 4362, length: 1, content: 設, 甲: 說, 乙: 說}
+  - {type: variant, offset: 4363, length: 1, content: 八, 甲: 入}
+  - {type: variant, offset: 4427, length: 1, content: 四, 大: 三}
+  - {type: variant, offset: 4474, length: 1, content: 住, 大: 作}
+  - {type: variant, offset: 4600, length: 1, content: 上, 大: 互}
+  - {type: variant, offset: 4602, length: 1, content: 目, 大: 因}
+  - {type: variant, offset: 4611, length: 1, content: 幻, 大: 約}
+  - {type: variant, offset: 4714, length: 1, content: 枝, 甲: 杖}
+  - {type: variant, offset: 4723, length: 1, content: 化, 大: 他}
+  - {type: variant, offset: 4743, length: 1, content: 二, 甲: 三}
+  - {type: variant, offset: 4745, length: 1, content: 枝, 甲: 杖}
+  - {type: variant, offset: 4786, length: 1, content: 蜜, 大: 密}
+  - {type: variant, offset: 4800, length: 1, content: 妄, 大: 忘}
+  - {type: variant, offset: 4816, length: 2, content: 不共, 甲: ''}
+  - {type: variant, offset: 4831, length: 1, content: 斷, 甲: ''}
+  - {type: variant, offset: 4872, length: 1, content: 之, 大: 云}
+  - {type: variant, offset: 4892, length: 1, content: 無, 甲: 及, 乙: 及}
+  - {type: variant, offset: 4920, length: 1, content: 元, 甲: 無}
+  - {type: variant, offset: 4980, length: 1, content: 許, 甲: 計}
+  - {type: variant, offset: 5061, length: 1, content: 任, 丙: 任即}
+  - {type: variant, offset: 5100, length: 1, content: 或, 丙: 或上忍}
+  - {type: variant, offset: 5149, length: 1, content: 名, 乙: ''}
+  - {type: variant, offset: 5168, length: 4, content: 初，初二二, 乙: 初二初二}
+  - {type: variant, offset: 5263, length: 1, content: 緣, 原: 縛}
+  - {type: variant, offset: 5304, length: 1, content: 六, 原: 九}
+  - {type: variant, offset: 5330, length: 1, content: 至, 甲: 到, 乙: 到}
+  - {type: variant, offset: 5337, length: 4, content: 其無表同, 大: ''}
+  - {type: variant, offset: 5339, length: 1, content: 住, 甲: 位, 乙: 位}
+  - {type: variant, offset: 5363, length: 1, content: 增, 大: 憎}
+  - {type: variant, offset: 5363, length: 1, content: 詞, 大: 伺}
+  - {type: variant, offset: 5376, length: 1, content: 目, 甲: 因}
+  - {type: variant, offset: 5390, length: 1, content: 文, 甲: 父}
+  - {type: variant, offset: 5412, length: 1, content: 性, 大: 姓}
+  - {type: variant, offset: 5448, length: 1, content: 善, 乙: ''}
+  - {type: variant, offset: 5453, length: 1, content: 家, 乙: ''}
+  - {type: variant, offset: 5456, length: 1, content: 惡, 大: 要}
+  - {type: variant, offset: 5481, length: 1, content: 噬, 甲: 㗛, 原: 㗛}
+  - {type: variant, offset: 5519, length: 1, content: 俱, 大: 但}
+  - {type: variant, offset: 5536, length: 1, content: 又, 甲: 人}
+  - {type: variant, offset: 5546, length: 1, content: 於, 丙: ''}
+  - {type: variant, offset: 5589, length: 1, content: 起, 甲: 趣}
+  - {type: variant, offset: 5685, length: 1, content: 答, 原: 天}
+  - {type: variant, offset: 5755, length: 1, content: 被, 大: 彼}
+  - {type: variant, offset: 5844, length: 1, content: 滿, 丙: 漏}
+  - {type: variant, offset: 5849, length: 1, content: 眼, 甲: 眠, 乙: 眠}
+  - {type: variant, offset: 5936, length: 1, content: 後, 甲: 復}
+  - {type: variant, offset: 5996, length: 1, content: 爾, 大: 不爾}
+  - {type: variant, offset: 6221, length: 1, content: 前, 大: 去}
+  - {type: variant, offset: 6255, length: 1, content: 二, 原: 一}
+  - {type: variant, offset: 6260, length: 1, content: 生, 大: 二}
+  - {type: variant, offset: 6275, length: 1, content: 心, 乙: 身}
+  - {type: variant, offset: 6289, length: 1, content: 違, 甲: 遠}
+  - {type: variant, offset: 6303, length: 1, content: 現, 大: 理}
+  - {type: variant, offset: 6320, length: 1, content: 擇X49n0811_p0084c24, 大: 擇}
+  - {type: variant, offset: 6336, length: 1, content: 復, 乙: 後}
+  - {type: variant, offset: 6358, length: 1, content: 證, 甲: 說, 乙: 說}
+  - {type: variant, offset: 6361, length: 2, content: 合念, 乙: ''}
+  - {type: variant, offset: 6368, length: 1, content: 忌, 甲: 忘}
+  - {type: variant, offset: 6386, length: 1, content: 上, 大: 上上}
+  - {type: variant, offset: 6447, length: 1, content: 少, 乙: 小}
+  - {type: variant, offset: 6479, length: 1, content: 云, 甲: 有}
+  - {type: variant, offset: 6495, length: 1, content: 令, 乙: 今}
+  - {type: variant, offset: 6507, length: 1, content: 在, 乙: 有}
+  - {type: variant, offset: 6512, length: 1, content: 點, 大: 黠}
+  - {type: variant, offset: 6523, length: 1, content: 盡, 大: 畫}
+  - {type: variant, offset: 6579, length: 1, content: 之, 乙: 定}
+  - {type: variant, offset: 6598, length: 1, content: 六, 大: 四}
+  - {type: variant, offset: 6605, length: 1, content: 點, 大: 黠}
+  - {type: variant, offset: 6685, length: 1, content: 識, 丙: 識上悟遍計}
+  - {type: variant, offset: 6686, length: 2, content: 亦分, 丙: 下忍}
+  - {type: variant, offset: 6705, length: 1, content: 特, 甲: 恃}
+  - {type: variant, offset: 6720, length: 1, content: 因, 甲: 可}
+  - {type: variant, offset: 6756, length: 1, content: 於, 甲: 施}
+  - {type: variant, offset: 6953, length: 1, content: 忍, 丙: 忍從上忍}
+  - {type: variant, offset: 6978, length: 1, content: 果, 甲: 異}
+  - {type: variant, offset: 6987, length: 1, content: 故, 乙: ''}
+  - {type: variant, offset: 7025, length: 1, content: 位, 大: 但}
+  - {type: variant, offset: 7115, length: 1, content: 密, 乙: 蜜}
+  - {type: variant, offset: 7118, length: 1, content: 五, 大: 三}
+  - {type: variant, offset: 7250, length: 1, content: 復, 甲: 又}
+  - {type: variant, offset: 7277, length: 1, content: 倒, 乙: 例}
+  - {type: variant, offset: 7351, length: 1, content: 詳, 大: 許}
+  - {type: variant, offset: 7381, length: 1, content: 頌, 原: 欲}
+  - {type: variant, offset: 7400, length: 1, content: 起, 甲: 既, 乙: 既}
+  - {type: variant, offset: 7413, length: 1, content: 種, 大: 釋}
+  - {type: variant, offset: 7461, length: 1, content: 滅, 大: 減}
+  - {type: variant, offset: 7487, length: 1, content: 耶, 大: ''}
+  - {type: variant, offset: 7503, length: 1, content: 无, 大: 旡}
+  - {type: variant, offset: 7505, length: 1, content: 亦, 甲: 定}
+  - {type: variant, offset: 7565, length: 1, content: 說, 原: 許}
+  - {type: variant, offset: 7639, length: 1, content: 種, 乙: 界}
+  - {type: variant, offset: 7690, length: 1, content: 超, 大: 起}
+  - {type: variant, offset: 7790, length: 1, content: 帝, 甲: 諦}
+  - {type: variant, offset: 7908, length: 1, content: 二, 大: 三}
+  - {type: variant, offset: 8006, length: 1, content: 如, 乙: ''}
+  - {type: variant, offset: 8018, length: 1, content: 故, 甲: ''}
+  - {type: variant, offset: 8050, length: 1, content: 惑, 甲: 或}
+  - {type: variant, offset: 8052, length: 1, content: 殊, 大: 珠}
+  - {type: variant, offset: 8060, length: 1, content: 或, 大: 戒}
+  - {type: variant, offset: 8086, length: 1, content: 沈, 大: 耽}
+  - {type: variant, offset: 8173, length: 1, content: 誑, 甲: 詐, 乙: 詐}
+  - {type: variant, offset: 8268, length: 1, content: 及, 大: 乃}
+  - {type: variant, offset: 8365, length: 1, content: 可, 甲: 等}
+  - {type: variant, offset: 8454, length: 1, content: 從, 乙: 定從}
+  - {type: variant, offset: 8490, length: 1, content: 姓, 大: 性}
+  - {type: variant, offset: 8552, length: 1, content: 依, 大: 依彼}
+  - {type: variant, offset: 8769, length: 1, content: 大, 甲: 太, 乙: 太}
+  - {type: variant, offset: 8850, length: 1, content: 亦, 乙: ''}
+  - {type: variant, offset: 8886, length: 1, content: 廁, 大: 刻}
+  - {type: variant, offset: 8936, length: 1, content: 收, 乙: 攝}
+  - {type: variant, offset: 8965, length: 1, content: 收, 乙: 攝}
+  - {type: variant, offset: 8979, length: 1, content: 現, 丙: 沈}
+  - {type: variant, offset: 8982, length: 1, content: 假, 乙: 假法}
+  - {type: variant, offset: 9092, length: 1, content: 准, 甲: 唯}
+  - {type: variant, offset: 9235, length: 2, content: 大、小, 甲: 小大}
+  - {type: variant, offset: 9263, length: 2, content: 異熟, 大: ''}
+  - {type: variant, offset: 9290, length: 1, content: 二, 甲: 一, 乙: 一}
+  - {type: variant, offset: 9544, length: 1, content: 如, 甲: 始}
+  - {type: variant, offset: 9575, length: 1, content: 已, 大: 亡}
+  - {type: variant, offset: 9645, length: 1, content: 持, 大: 待}
+  - {type: variant, offset: 9672, length: 1, content: 起, 甲: 趣}
+  - {type: variant, offset: 9722, length: 1, content: 後, 大: 彼}
+  - {type: variant, offset: 9729, length: 1, content: 此, 大: 比}
+  - {type: variant, offset: 9738, length: 1, content: 即, 丙: 既}
+  - {type: variant, offset: 9800, length: 1, content: 計, 甲: 許, 乙: 許}
+  - {type: variant, offset: 9887, length: 1, content: 判, 乙: 法判}
+  - {type: variant, offset: 9928, length: 1, content: 中, 丙: ''}
+  - {type: variant, offset: 9929, length: 1, content: 上, 丙: 上品}
+  - {type: variant, offset: 9948, length: 1, content: 無, 乙: 有}
+  - {type: variant, offset: 10002, length: 1, content: 義, 乙: 乘}
+  - {type: variant, offset: 10042, length: 1, content: 報, 甲: 執}
+  - {type: variant, offset: 10045, length: 1, content: 彼, 大: 於彼}
+  - {type: variant, offset: 10057, length: 1, content: 報, 甲: 執}
+  - {type: variant, offset: 10166, length: 1, content: 八, 乙: 心}
+  - {type: variant, offset: 10185, length: 1, content: 惑, 甲: 或}
+  - {type: variant, offset: 10244, length: 1, content: 學, 乙: 覺}
+  - {type: variant, offset: 10268, length: 1, content: 合, 大: 令}
+  - {type: variant, offset: 10287, length: 1, content: 地, 甲: 他}
+  - {type: variant, offset: 10320, length: 1, content: 眼, 大: 根}
+  - {type: variant, offset: 10352, length: 1, content: 辨, 甲: 棄}
+  - {type: variant, offset: 10579, length: 1, content: 別, 大: 則}
+  - {type: variant, offset: 10606, length: 2, content: 稽者, 乙: ''}
+  - {type: variant, offset: 10610, length: 1, content: 誠, 大: 說}
+  - {type: variant, offset: 10632, length: 2, content: 上緣, 乙: 緣上}
+  - {type: variant, offset: 10632, length: 1, content: 八, 大: 六}
+  - {type: variant, offset: 10635, length: 1, content: 惑, 甲: 或, 乙: 或}
+  - {type: variant, offset: 10636, length: 1, content: 惑, 大: 或}
+  - {type: variant, offset: 10663, length: 1, content: 照, 大: 然}
+  - {type: variant, offset: 10698, length: 1, content: 起, 大: 超}
+  - {type: variant, offset: 10822, length: 1, content: 四, 大: 九}
+  - {type: variant, offset: 10857, length: 2, content: 故乃, 大: ''}
+  - {type: variant, offset: 10947, length: 1, content: 信, 甲: '', 乙: ''}
+  - {type: variant, offset: 10984, length: 1, content: 及, 大: 為}
+  - {type: variant, offset: 11059, length: 2, content: 品、二, 大: 二一}
+  - {type: variant, offset: 11071, length: 1, content: 或, 原: 若}
+  - {type: variant, offset: 11075, length: 1, content: 漏, 大: 滿}
+  - {type: variant, offset: 11108, length: 1, content: 致, 甲: 敬, 乙: 敬}
+  - {type: variant, offset: 11120, length: 1, content: 驚, 甲: 警}
+  - {type: variant, offset: 11126, length: 1, content: 驚, 甲: 警}
+  - {type: variant, offset: 11179, length: 1, content: 近, 原: 遠}
+  - {type: variant, offset: 11180, length: 1, content: 已, 大: 以}
+  - {type: variant, offset: 11267, length: 1, content: 波, 甲: 彼}
+  - {type: variant, offset: 11320, length: 1, content: 心, 甲: 止}
+  - {type: variant, offset: 11345, length: 1, content: 報, 甲: 趣}
+  - {type: variant, offset: 11398, length: 1, content: 六, 原: 五, 丙: 五}
+  - {type: variant, offset: 11416, length: 1, content: 六, 丙: 五}
+  - {type: variant, offset: 11496, length: 1, content: 繞, 大: 饒}
+  - {type: variant, offset: 11553, length: 1, content: 亦, 大: 亦緣上}
+  - {type: variant, offset: 11567, length: 1, content: 勤, 甲: 對, 乙: 對}
+  - {type: variant, offset: 11798, length: 1, content: 及, 乙: 乃}
+  - {type: variant, offset: 11815, length: 1, content: 各, 丙: 名}
+  - {type: variant, offset: 11816, length: 1, content: 法, 丙: 法智}
+  - {type: variant, offset: 11845, length: 1, content: 正, 甲: 心, 原: 心}
+  - {type: variant, offset: 11846, length: 2, content: 慘懮, 大: 躁擾}
+  - {type: variant, offset: 11903, length: 1, content: 惑, 甲: 或}
+  - {type: variant, offset: 12036, length: 1, content: 惑, 甲: 或}
+  - {type: variant, offset: 12044, length: 1, content: 是, 大: 見}
+  - {type: variant, offset: 12077, length: 1, content: 可, 乙: ''}
+  - {type: variant, offset: 12278, length: 1, content: 三, 乙: 二}
+  - {type: variant, offset: 12292, length: 1, content: 帝, 甲: 諦, 乙: 諦}
+  - {type: variant, offset: 12307, length: 1, content: 至, 丙: 至云}
+  - {type: variant, offset: 12412, length: 1, content: 還, 甲: 還不還}
+  - {type: variant, offset: 12423, length: 1, content: 惑, 甲: 或}
+  - {type: variant, offset: 12519, length: 4, content: 如、彼彼、餘, 大: 彼餘如彼}
+  - {type: variant, offset: 12614, length: 1, content: 無, 甲: 死, 乙: 死}
+  - {type: variant, offset: 12750, length: 1, content: 此, 乙: ''}
+  - {type: variant, offset: 12769, length: 1, content: 非, 大: 悲}
+  - {type: variant, offset: 12797, length: 1, content: 現, 乙: ''}
+  - {type: variant, offset: 12976, length: 1, content: 二, 大: 一}
+  - {type: variant, offset: 13266, length: 1, content: 立, 丙: 安立}
+  - {type: variant, offset: 13346, length: 1, content: 隨, 大: 墮}
+  - {type: variant, offset: 13397, length: 1, content: 照, 大: 然}
+  - {type: variant, offset: 13491, length: 21, content: 不取無漏，有分別業非過，失故，非失集故，或印不同也, 甲: ''}
+  - {type: variant, offset: 13516, length: 1, content: 凡, 原: 異}
+  - {type: variant, offset: 13584, length: 1, content: 因, 丙: 目}
+  - {type: variant, offset: 13601, length: 1, content: 因, 丙: 目}
+  - {type: variant, offset: 13662, length: 18, content: 無明喻分段死煩惱難者，即愛、取支亦煩惱攝, 甲: ''}
+  - {type: variant, offset: 13726, length: 1, content: 因, 原: 曰}
+  - {type: variant, offset: 13885, length: 1, content: 徹, 大: 轍}
+  - {type: variant, offset: 14031, length: 1, content: 六, 大: 四}
+  - {type: variant, offset: 14122, length: 1, content: 第, 甲: 前第}
+  - {type: variant, offset: 14520, length: 1, content: 性, 丙: 體}
+  - {type: variant, offset: 14592, length: 1, content: 善, 甲: 義, 乙: 義}
+  - {type: variant, offset: 14627, length: 1, content: 位, 原: 德, 甲: 德, 乙: 德}
+  - {type: variant, offset: 14683, length: 1, content: 住, 大: 作}
+  - {type: variant, offset: 14738, length: 1, content: 遂, 大: 逐}
+  - {type: variant, offset: 14796, length: 1, content: 處, 乙: 理}
+  - {type: variant, offset: 14865, length: 1, content: 即, 大: 非即}
+  - {type: variant, offset: 14898, length: 1, content: 報, 甲: 執, 乙: 執}
+  - {type: variant, offset: 15053, length: 1, content: 計, 甲: 許}
+  - {type: variant, offset: 15220, length: 1, content: 依, 甲: 餘}
+  - {type: variant, offset: 15282, length: 1, content: 定, 乙: ''}
+  - {type: variant, offset: 15287, length: 1, content: 推, 甲: 惟}
+  - {type: variant, offset: 15399, length: 1, content: 熟, 乙: 就}
+  - {type: variant, offset: 15411, length: 1, content: 熟, 乙: 就}
+  - {type: variant, offset: 15422, length: 1, content: 熟, 乙: 就}
+  - {type: variant, offset: 15444, length: 1, content: 唯, 大: 准}
+  - {type: variant, offset: 15548, length: 1, content: 恩, 丙: 荷恩}
+  - {type: variant, offset: 15771, length: 1, content: 例, 乙: 倒}
+  - {type: variant, offset: 15872, length: 1, content: 殊, 甲: '', 乙: ''}
+  - {type: variant, offset: 15986, length: 1, content: 性, 大: 善性}
+  - {type: variant, offset: 16359, length: 1, content: 一, 大: 二}
+  - {type: variant, offset: 16399, length: 1, content: 具, 大: 是}
+  - {type: variant, offset: 16486, length: 1, content: 其, 甲: 有, 乙: 有}
+  - {type: variant, offset: 16501, length: 1, content: 妨, 大: 防}
+  - {type: variant, offset: 16720, length: 1, content: 但, 大: 俱}
+  - {type: variant, offset: 16893, length: 1, content: 報, 甲: 執}
+  - {type: variant, offset: 17120, length: 1, content: 二, 甲: 所}
+  - {type: variant, offset: 17125, length: 1, content: 彼, 丙: 所}
+  - {type: variant, offset: 17133, length: 1, content: 聞, 丙: 問聞}
+  - {type: variant, offset: 17260, length: 1, content: 他, 丙: 他地}
+  - {type: variant, offset: 17462, length: 1, content: 緣, 丙: 故}
+  - {type: variant, offset: 17527, length: 1, content: 若, 甲: 苦}
+  - {type: variant, offset: 17827, length: 1, content: 相, 甲: 想}
+  - {type: variant, offset: 17843, length: 1, content: 以, 原: 已, 丙: 已}
+  - {type: variant, offset: 17855, length: 1, content: 意, 大: 疏}
+  - {type: variant, offset: 18056, length: 1, content: 修, 丙: 所修}
+  - {type: variant, offset: 18095, length: 1, content: 如, 甲: 知}
+  - {type: variant, offset: 18273, length: 1, content: 實, 丙: 骨}
+  - {type: variant, offset: 18294, length: 1, content: 觀, 丙: 答觀}
+  - {type: variant, offset: 18295, length: 1, content: 受, 丙: 愛}
+  - {type: variant, offset: 18407, length: 1, content: 許, 大: 計}
+  - {type: variant, offset: 18771, length: 1, content: 諦, 大: 種}
+  - {type: variant, offset: 18806, length: 1, content: 惠, 大: 惠幢}
+  - {type: variant, offset: 18867, length: 1, content: 報, 甲: 執}
+  - {type: variant, offset: 18899, length: 1, content: 見, 大: 是}
+  - {type: variant, offset: 18908, length: 1, content: 三, 大: 五}
+  - {type: variant, offset: 19100, length: 1, content: 以, 原: 已}
+  - {type: variant, offset: 19468, length: 1, content: 一, 甲: 五}
+  - {type: variant, offset: 19853, length: 1, content: 智, 甲: 知}
+  - {type: variant, offset: 20048, length: 1, content: 定, 甲: ''}
+  - {type: variant, offset: 20389, length: 1, content: 起, 大: 超}
+  - {type: variant, offset: 20503, length: 1, content: 無, 原: 元}
+  - {type: variant, offset: 20543, length: 1, content: 元, 甲: 無}
+  - {type: variant, offset: 20794, length: 1, content: 河, 大: 訶}
+  body: []
+  back: []
+hash: sha256:a3b8c056f8ca02cf118f0d8e2188f9b9c97cada928604c546e5f07684b12fc8e
